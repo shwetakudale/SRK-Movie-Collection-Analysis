@@ -79,4 +79,6 @@ The dataset contains the following information:
 
 <img width="962" height="542" alt="SRK Movie Analysis" src="https://github.com/user-attachments/assets/4835d589-5dc0-4423-a6a6-631502ea88ce" />
 
+## Project Objective
+
 The objective of this project is to practice data visualization, dashboard design, and storytelling with data using Power BI by analyzing movie industry data.
